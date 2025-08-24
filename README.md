@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nguyen, but you can call me Norman
+- 👋 Hi, I’m Nguyên, but you can call me Norman
 - 👀 I’m a FE developer
 - 🌱 I’m currently working at 247 Express
 
